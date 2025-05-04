@@ -1,4 +1,4 @@
-print("Willkommen beim L-Bank Förderrechner!")
+print("Willkommen bei dem Förderrechner!")
 
 # Benutzereingaben
 einkommen = float(input("Geben Sie Ihr Jahreseinkommen ein (in €): "))
